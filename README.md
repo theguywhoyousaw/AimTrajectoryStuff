@@ -1,0 +1,2 @@
+# AimTrajectoryStuff
+Some files that can be used to analyse specific data sets from tools. Produces aim data, can compare aim data, and generate new aim data
